@@ -1,0 +1,6 @@
+ID Vards Uzvards Vecums Tel.nr. 
+1  0 Edgars Abolins 22941884 Rekina Nmr. 014435    
+2  1 Igors Lapa 24218489 Rekina Nmr. 021055    
+3  2 Rainers Cakars 23429558 Rekina Nmr. 031478    
+4  3 Edgars Biezins 23035142 Rekina Nmr. 023656    
+5  4 Edgars Cakars 21091772 Rekina Nmr. 016047    

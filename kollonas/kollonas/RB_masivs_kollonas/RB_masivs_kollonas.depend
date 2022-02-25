@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1643105693 source:z:\programmesana_1\rb_masivs_kollonas\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<string>
+
+1645112520 source:e:\programmesana_i\kollonas\rb_masivs_kollonas\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<string>
+
+1645778706 source:z:\programmesana_1\kollonas\kollonas\rb_masivs_kollonas\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<fstream>
+	<string>
+
